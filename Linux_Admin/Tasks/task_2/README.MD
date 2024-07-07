@@ -1,6 +1,9 @@
 # Linux Admin Task 2
 
 ### Q2)
-![Example Image](C:\Users\mfarr\OneDrive\سطح المكتب\Screenshot 2024-07-06 222621.png)
+![Alt text](Linux_Admin/Tasks/task_2/Screenshot 2024-07-06 222621.png)
 
+![Alt text](Linux_Admin/Tasks/task_2/Screenshot 2024-07-06 222733.png)
 
+N2Na2a
+- 
