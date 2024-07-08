@@ -7,3 +7,4 @@
 
 N2Na2a
 - 
+Linux_Admin/Tasks/task_2/Screenshot 2024-07-06 222621.png
