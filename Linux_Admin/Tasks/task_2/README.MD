@@ -25,3 +25,4 @@ N2Na2a
 
 - 5. Create a Bash shell alias named PrintPath for the “echo $PATH” comman
 ![iamge[(https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Admin/Tasks/task_2/alias.png)
+
