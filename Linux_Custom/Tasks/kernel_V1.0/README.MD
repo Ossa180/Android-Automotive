@@ -1,4 +1,4 @@
-https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/63ead0fb-d184-4df7-89af-f6972baa70a4/Untitled.png# Kernel Customization V1.0
+# Kernel Customization V1.0
 ---
 
 - clone kernel
