@@ -1,3 +1,6 @@
+# Kernel Customization V1.0
+---
+
 - clone kernel
 
 ```markdown
@@ -20,7 +23,7 @@ ls | grep vexpress
 <vexpress_defconfig>
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/63ead0fb-d184-4df7-89af-f6972baa70a4/Untitled.png)
+![Untitled](https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Custom/Tasks/kernel_V1.0/Untitled.png)
 
 - config vexpress
 
@@ -28,7 +31,7 @@ ls | grep vexpress
 make vexpress_defconfig
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/a55b325b-03ac-408e-a0d6-36bcd5313222/Untitled.png)
+![Untitled](https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Custom/Tasks/kernel_V1.0/Untitled%201.png)
 
 - to solve this error we must change the Path of searching
 set Archtecture type
