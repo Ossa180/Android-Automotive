@@ -1,4 +1,4 @@
-# Kernel Customization V1.0
+https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/63ead0fb-d184-4df7-89af-f6972baa70a4/Untitled.png# Kernel Customization V1.0
 ---
 
 - clone kernel
@@ -40,7 +40,7 @@ set Archtecture type
 export ARCH=arm
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/2d785879-8328-4405-acf1-52b681349499/Untitled.png)
+![Untitled](https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Custom/Tasks/kernel_V1.0/Untitled%202.png)
 
 - configurations
 
@@ -59,7 +59,7 @@ make menuconfig
 - Kernel Release [ Optional [
     - append username after booting kernel
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/71db6a05-806d-4cc4-a532-a41b4bbb372a/Untitled.png)
+    ![Untitled](https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Custom/Tasks/kernel_V1.0/Untitled%203.png)
     
 
 ---
@@ -97,4 +97,4 @@ sudo apt-get install libgmp-dev
 sudo apt-get install libmpc-dev
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/39758c8d-1e40-447c-b003-deda2c52423e/Untitled.png)
+![Untitled](https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Custom/Tasks/kernel_V1.0/Untitled%204.png)
