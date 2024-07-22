@@ -1,4 +1,4 @@
-# Using TFTP-hpa
+Create README.MD# Using TFTP-hpa
 ---
 
 - install package
@@ -25,8 +25,6 @@ sudo vim /etc/defaut/tftpd-hpa
 # create >> write permission
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/2cfe102f-d8d1-49c9-8351-10bf4d278c26/Untitled.png)
-
 - restart service
 
 ```markdown
@@ -47,6 +45,8 @@ systemctl start tftpd-hpa.service
 ```
 
 - anyfile i want tp send must save it in /srv/tftp
+![Untitled](https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Custom/Tasks/QEMU_tftp/files.png)
+
 
 ```markdown
 # then change ownership
@@ -64,4 +64,4 @@ setenv serverip  <linux ip>
 tftp $kernel_addr_r Zimage
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/fcadd9df-bc31-4a48-88fa-724ede0adcc8/Untitled.png)
+![Untitled](https://github.com/Ossa180/Embedded_Linux/blob/main/Linux_Custom/Tasks/QEMU_tftp/tftp_done.png)
