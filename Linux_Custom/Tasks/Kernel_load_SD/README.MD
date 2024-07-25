@@ -126,3 +126,12 @@ fatload mmc 0:1 $fdt_addr_r vexpress-v2p-ca9.dtb
 ```
 
 ![Untitled](Kernel%20Organized%2099f27ac7dd0f45719f7929dc7ad71e01/Untitled%205.png)
+
+- Boot The zImage and Vexpress DTB file
+
+```
+bootz $kernel_addr_r - $fdt_addr_r
+
+```
+
+![kernel panic](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6d02fce-f9fb-49b0-8412-b5d0f350fe90/c8fcef0a-60cc-4b8e-8d06-93e67d9c8e91/Untitled.png)
