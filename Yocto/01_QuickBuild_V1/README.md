@@ -6,7 +6,6 @@
 
 - [https://docs.yoctoproject.org/4.0.20/ref-manual/system-requirements.html](https://docs.yoctoproject.org/4.0.20/ref-manual/system-requirements.html)
 
-[https://docs.yoctoproject.org/4.0.20/ref-manual/system-requirements.html](https://docs.yoctoproject.org/4.0.20/ref-manual/system-requirements.html)
 
 - Requeired Package for Host Machine ( `UBUNTU` )
 
