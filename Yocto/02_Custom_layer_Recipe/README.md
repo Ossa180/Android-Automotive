@@ -91,7 +91,7 @@ vim hello_recipe_1.0.bb
 ```
 
 ```markdown
-DESCRIPTION = "Recipe created by lulu"
+DESCRIPTION = "Custom Recipe by Mohamed Hussein"
 LICENSE = "MIT"
 
 python do_display_banner() {
@@ -107,9 +107,9 @@ python do_display_banner() {
 
     # Check the value of the global variable and print the corresponding message
     if global_var == "0":
-        bb.plain("hi lulu")
+        bb.plain("hi Zero")
     elif global_var == "1":
-        bb.plain("hello ya lulu")
+        bb.plain("hello one")
     else:
         bb.plain(f"Unknown value for MY_GLOBAL_VAR: {global_var}")
 
