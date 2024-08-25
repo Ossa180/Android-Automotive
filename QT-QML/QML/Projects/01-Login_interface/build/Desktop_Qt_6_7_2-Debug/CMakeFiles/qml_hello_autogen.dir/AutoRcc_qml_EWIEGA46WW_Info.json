@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/qml_hello_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello",
+	"CMAKE_SOURCE_DIR" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/qml_hello_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/main.qml"
+	],
+	"LOCK_FILE" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qml_hello_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/mohamed/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qml_hello_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/qml.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

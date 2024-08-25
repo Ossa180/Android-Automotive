@@ -1,0 +1,10 @@
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qml_hello.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qml_hello_qmlimportscan.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qml_hello_autogen_timestamp_deps.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/qml_hello/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qml_hello_autogen.dir
