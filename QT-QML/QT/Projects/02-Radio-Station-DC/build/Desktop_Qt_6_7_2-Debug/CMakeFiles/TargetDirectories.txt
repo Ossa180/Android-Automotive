@@ -1,0 +1,9 @@
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/DC_signal_slot.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/DC_signal_slot_autogen_timestamp_deps.dir
+/home/mohamed/Desktop/iti_android/QT/QT_workspace/DC_signal_slot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/DC_signal_slot_autogen.dir
