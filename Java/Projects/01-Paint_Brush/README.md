@@ -1,5 +1,5 @@
 # Creating Application Paint Brush using Java and Applet
----
+
 
 ### Color
 - Color section to choose which color to use
@@ -23,4 +23,4 @@
 
 ### UML
 ---
-![paintUML drawio](https://github.com/user-attachments/assets/ab6d6173-d198-4ffb-839e-a64bd89583d8)
+![paint drawio](https://github.com/user-attachments/assets/6aa273f4-3131-42eb-9ecc-3c5888dbe21e)
